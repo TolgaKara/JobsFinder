@@ -2,6 +2,8 @@
 
 It is a 🤖 Bot which can create automatically a cv and cover letter. Also its searching by keywords for the job postings. In the first state its tailored down to my needs and maybe later on with some contribution I will make it dynamic.
 
+I don't take any responsibility if the account you use gets banned. I will use a **VPN**.
+
 - [JobsFinder](#jobsfinder)
   - [:package: Installation](#package-installation)
   - [:unicorn: Demo](#unicorn-demo)
